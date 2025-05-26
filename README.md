@@ -55,6 +55,9 @@ A continuación se detalla la función dentro del sistema de cada uno de los usu
 
 Lo representamos a través del siguiente diagrama de casos de uso:
 
+
+  ![GNU](https://github.com/SergioLI04/SergioLopezRETO/blob/a7049190ad49dc7c97ae2f0a27d7969833267f19/entornos/ejemplo.PNG)
+
 ### Contribución
 
 ¿Quieres colaborar en el desarrollo?
