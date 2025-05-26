@@ -78,4 +78,4 @@ Para obtener más información sobre la aplicación y su funcionamiento interno,
 
 Otros organismos colaboradores:
 
-![GNU](https://www.educantabria.es/documents/8911298/8913497/logoIESMP,png)
+![GNU](https://www.educantabria.es/documents/8911298/8913497/logoIESMHP.png)
