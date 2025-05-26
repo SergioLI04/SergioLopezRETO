@@ -1,14 +1,15 @@
 ## Documentación de la Aplicación de Gestión Veterinaria
 
 ### Índice
+  
 
-    * Documentación de la Aplicacion Veterinaria
-        * [Índice](#índice)
-        - [Introducción](#introducción)
-        - [Instalación](#instalación)
-        - [Uso](#uso)
-        - [Contribución]()
-        - [Subvención]()
+  * Documentación de la Aplicacion Veterinaria
+    + [Índice](#índice)
+    + [Introducción](#introducción)
+    + [Instalación](#instalación)
+    + [Uso](#uso)
+    + [Contribución](#contribución)
+    * [Subvención](#subvención)
 
 ### Introducción
 
@@ -20,7 +21,7 @@ Para instalar y configurar la aplicación en tu entorno local, sigue los siguien
 
     1. Clona el repositorio desde GitHub:
 
-    `git clone https://github.com/tu-usuario/nombreAlumnoRETO.git`
+      ` git clone https://github.com/tu-usuario/nombreAlumnoRETO.git `
 
     2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode, IntelliJ...).
 
@@ -44,7 +45,6 @@ Para utilizar la aplicación, sigue las instrucciones proporcionadas en la inter
 A continuación se detalla la función dentro del sistema de cada uno de los usuarios:
 
 
-
 | **Usuario** | | **Funcionalidad** |
 | ------------| | ------------- | 
 |Paciente | | Solicita citas...|
@@ -63,15 +63,15 @@ Lo representamos a través del siguiente diagrama de casos de uso:
     2. Crea una nueva rama (git checkout -b feature/tu-mejora).
     3. Realiza tus cambios y haz commit (git commit -am 'Agrega nueva funcionalidad').
     4. Haz push a la rama (git push orign feature/nueva-funcionalidad).
-    5. Abre un pull request su revisión.
+    5. Abre un pull request su revisión. 
 
 ### Subvención 
 
-Este proyecto está subvencionado por el 
+Este proyecto está subvencionado por el [Gobierno de España](https://www.infosubvenciones.es/bdnstrans/GE/es/inicio)
 
 ***
 
-Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra 
+Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra [documentacion técnica](documentacion-tecnica.md)
 
 Otros organismos colaboradores:
 
